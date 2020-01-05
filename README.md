@@ -1,4 +1,4 @@
-# Deep-Learning-Method-comaprison-with-Logistic-Regression-
+# Deep-Learning-Method-comparison-with-Logistic-Regression-
 Comparison of indian_diabetes dataset using Keras Deep Learning Method with Logistic Regression
 
 I would like to thank Jason Brownlee as he was the inspiration for me where he is using indian_diabetes dataset and explaining to determine the accuracy using Keras with the help of Deep Learning.
